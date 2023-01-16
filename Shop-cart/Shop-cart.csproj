@@ -71,8 +71,8 @@
     <Content Include="Knockout\jquery-3.6.3.min.js" />
     <Content Include="Knockout\knockout-3.5.1.js" />
     <Content Include="Knockout\jsonFile.js" />
-    <Content Include="screens\shopping-blanc.png" />
-    <Content Include="screens\shopping.png" />
+    <Content Include="screens\shopping-Blanc.png" />
+    <Content Include="screens\Shopping.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -87,6 +87,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
