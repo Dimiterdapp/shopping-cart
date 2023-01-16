@@ -12,7 +12,7 @@ This is a shopping cart application made with KnockoutJS and JSON, it is recreat
 ## Screenshots
 | Screenshots  | Screenshots |
 | ------------- | ------------- |
-| <img src="/Shop-cart/screens/shopping-blanc.png"> |<img src="/Shop-cart/screens/shopping.png"> |
+| <img src="/Shop-cart/screens/shopping-Blanc.png"> |<img src="/Shop-cart/screens/Shopping.png"> |
 
 # Installation
 Add knockoutjs, jquery libraries also put a reference link for json file.
